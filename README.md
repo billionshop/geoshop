@@ -1,4 +1,4 @@
 # geoshop
-Self-hosted shop that shows products from other nearby shops, found via geohash. No central site. Everyone hosts their own on Cloudflare Workers.
+Self-hosted shop on Cloudflare Workers. Post products, and find products from nearby shops via geohash. No central site.
 # Commercial use
 Contact me for commercial use
